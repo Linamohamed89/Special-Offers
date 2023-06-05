@@ -1,6 +1,12 @@
+h1 {
+  font-size: 50px;
+        padding: 20px 263px 20px 691px;
+}
+
 .card{
     width: 340px;
     border-radius: 23px !important;
+    z-index:-1;
 }
 
 .border {
@@ -9,7 +15,7 @@ border-radius: 10px;
 margin-top: -47px;
 }
 img {
-    z-index:-1;
+    
     position: absolute;
     
   }
